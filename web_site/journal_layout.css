@@ -1,0 +1,34 @@
+#BigBox{
+    margin: 0 auto ;
+    margin-top: 10px;
+	border: 10px solid white;
+	background: white;
+	overflow: hidden;
+}
+.redbox{
+	border-bottom: 10px solid white;
+	background: #A8F0F0;
+	text-align-last: right;
+	margin: 7pt;
+
+}
+.orangebox{
+	/*border: 5px solid #fca903;*/
+}
+.bluebox{
+	background: #E8FBFB;
+	border: solid #C2E9E9 4px;
+	padding: 5px;
+	margin: 10px;
+	overflow: hidden;
+}
+
+body{
+	margin: 0 auto;
+	max-width: 40em;
+
+	background-image: url('https://images.clipartlogo.com/files/istock/previews/6344/63444351-background-blue-ornament-wallpaper.jpg');
+}
+img{
+	float: right;
+}
